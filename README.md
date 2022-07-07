@@ -1,4 +1,4 @@
-# aktuelle-data-science-entwicklungen_video
+# aktuelle-data-science-entwicklungen_video: Unterscheidung zwischen Supervised Learning, Unsupervised Learning und Reinforcement Learning
 
 Youtube-Erklärvideo:
 https://www.youtube.com/watch?v=7JKwcZ89ysA&ab_channel=Simon
