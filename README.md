@@ -1,4 +1,4 @@
-# -aktuelle-data-science-entwicklungen_video
+# aktuelle-data-science-entwicklungen_video
 
 Youtube-Erklärvideo:
 https://www.youtube.com/watch?v=7JKwcZ89ysA&ab_channel=Simon
